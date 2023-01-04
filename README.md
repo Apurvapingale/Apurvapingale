@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack development**
 
-- 🤝 I’m looking for help with **Competitive Programming**
+<!-- - 🤝 I’m looking for help with **Competitive Programming** -->
 
 - 📫 How to reach me **apurvapingale05@gmail.com**
 
